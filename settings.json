@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.preferredHighContrastLightColorTheme": "Default Light+",
+    "workbench.preferredLightColorTheme": "Solarized Dark",
+    "editor.tabSize": 2,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.renderWhitespace": "boundary",
+    "security.workspace.trust.enabled": false,
+    "emmet.extensionsPath": [
+        "~\\AppData\\Roaming\\code\\User\\emmet"
+    ],
+    "workbench.activityBar.visible": false
+}
